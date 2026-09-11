@@ -1,0 +1,45 @@
+commit 25d94a5234ccbfa53149fb23df6c63b4d3630812
+Merge: de05a77 6a23816
+Author: Jose Alejandro Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 23:26:38 2026 -0700
+
+    Resolving merge conflict
+
+commit 6a2381632ab228c7b151bcc00204b7ea28b73e50
+Author: Jose Alejandro Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 23:17:20 2026 -0700
+
+    Adding favorite movie
+
+commit de05a77ac3dd3856887ec8bc0c58f780ea04c391
+Author: Jose Alejandro Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 23:10:42 2026 -0700
+
+    Adding my favorite food
+
+commit cf137452bff2d32ab991414a1667b78fd31dc92d
+Author: Jose Alejandro Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 22:39:56 2026 -0700
+
+    Adding a README document to the repo
+
+commit 0291d3a7aa73d998736682f697c2e49c4175aca9
+Merge: 1d2bfc0 3bb40f4
+Author: Jose Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 22:26:36 2026 -0700
+
+    Merge pull request #1 from JoseABarrera06/info-fill
+    
+    Fill in personal information
+
+commit 3bb40f4d7b120fdf97d1b58cc634d1a327f54017
+Author: Jose Alejandro Barrera Hernandez <barrerajale@gmail.com>
+Date:   Thu Sep 10 22:05:57 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
